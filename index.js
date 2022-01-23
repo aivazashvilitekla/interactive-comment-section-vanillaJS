@@ -1,4 +1,4 @@
-import jsonObject from "../data.json" assert { type: "json" };
+import jsonObject from "./json/data.json" assert { type: "json" };
 
 import { displayComments } from './js/displayComments.js';
 import { eventListeners } from './js/displayComments.js';
