@@ -1,0 +1,23 @@
+{
+  "name": "comments-section",
+  "version": "1.0.0",
+  "description": "Link https://aivazashvilitekla.github.io/interactive_comment_section_vanillaJS/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aivazashvilitekla/interactive_comment_section_vanillaJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aivazashvilitekla/interactive_comment_section_vanillaJS/issues"
+  },
+  "homepage": "https://github.com/aivazashvilitekla/interactive_comment_section_vanillaJS#readme",
+  "devDependencies": {
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
