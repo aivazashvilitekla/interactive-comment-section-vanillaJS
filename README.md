@@ -1,4 +1,4 @@
 # interactive_comment_section_vanillaJS
 
-DEPLOY
+Link
 https://aivazashvilitekla.github.io/interactive_comment_section_vanillaJS/
